@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/classes-5f81fdecddbc0ea722c483029c07ca59e1615c22.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/classes-ac40d3628a036662a819f3d58da355c1a85eeebe.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.7.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="18e495b860cfc2d0f526015a04f80cc7c099cfdc">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/classes-00f76ffc7ec0910b65f24ee834cd8470a7a0bfcb.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/com.roomorama/caldroid/1.1.8/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1081458e03a963a5fcb583e6dfaed7ca2c0a12d6">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/classes-f068711870eaa82899390a211170a2e7727925b6.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/b321fd17a60912973a8344da427487c65ccbb552/joda-time-2.7-no-tzdb.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b321fd17a60912973a8344da427487c65ccbb552">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/joda-time-2.7-no-tzdb-498f4eaea9333b95a1ed9d18f8cdfe2d6c50e66b.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/classes-3833b864151a27000d541868144f4b4cc276c3e7.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/hirondelle-date4j-1.5.1-a4b68d3009bd0c4322a35f6c3b6359c35687671a.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-1b872d6ce780071916750e1ee5bd27b431f0e317.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/gson-2.2.4-9f0de754ffe81bc0bc638c8f3dfbbdb577c8f0a3.jar" />
+    </item>
+    <item
+        jar="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/diegorubio/AndroidStudioProjects/Recicloid/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-975e2e15171e766f84d6ee1fe439d9d21fae54a4.jar" />
+    </item>
+
+</items>
